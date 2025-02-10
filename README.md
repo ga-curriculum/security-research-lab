@@ -1,47 +1,34 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Security Research Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+By the end of this lab, students will be able to conduct in-depth research on a specific attack method, investigate a real-world incident involving that method, and present a comprehensive report on their findings to their peers.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Choosing Your Attack Method](./choosing-your-attack-method/README.md)
+- [Understanding the Attack Method](./understanding-attack-method/README.md)
+- [Investigating a Real-World Incident](./investigating-an-incident/README.md)
+- [Compiling a Comprehensive Report](./comprehensive-report/README.md)
+- [Presenting Your Findings](./presenting-findings/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- None
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **180 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/security-research-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/security-research-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
