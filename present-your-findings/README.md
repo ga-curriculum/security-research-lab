@@ -1,13 +1,13 @@
 <h1>
   <span class="headline">Security Research Lab</span>
-  <span class="subhead">Presenting Your Findings</span>
+  <span class="subhead">Present Your Findings</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will present the key findings from the research and investigation in an engaging, informative presentation to peers.
 
 Congratulations on completing your research report! The final step in this lab is to share your findings with your peers in a presentation.
 
-## Preparing Your Presentation
+## Preparing your presentation
 
 Start by deciding on the key points you want to convey in your presentation. You won't be able to cover everything from your report, so focus on the most important and interesting findings.
 
@@ -23,7 +23,7 @@ A good presentation might include:
 
 Create slides to visually support your presentation. Use images, diagrams, and bullet points to make your slides engaging and easy to follow.
 
-## Delivering Your Presentation
+## Delivering your presentation
 
 When delivering your presentation, remember to:
 
@@ -32,7 +32,7 @@ When delivering your presentation, remember to:
 - Use gestures and body language to engage your listeners
 - Allow time for questions and discussion
 
-## Engaging in Discussion
+## Engaging in discussion
 
 After your presentation, engage with your peers in a discussion. Some prompts to consider:
 
@@ -44,7 +44,7 @@ After your presentation, engage with your peers in a discussion. Some prompts to
 
 Remember, the goal isn't just to share your own findings, but to engage in a collaborative learning process with your peers.
 
-## Reflecting on Your Learning
+## Reflecting on your learning
 
 After the presentations and discussion, take some time to reflect on what you've learned throughout this lab. Consider:
 

@@ -2,39 +2,37 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-choosingYourAttackMethod = new Template.Microlesson {
-  friendlyName = "Choosing Your Attack Method"
-  dirName = "choosing-your-attack-method"
+chooseAnAttackMethod = new Template.Microlesson {
+  friendlyName = "Choose an Attack Method"
+  dirName = "choose-an-attack-method"
   type = "Content"
   videoUrl = ""
 }
 
-understandingAttackMethod = new Template.Microlesson {
-  friendlyName = "Understanding the Attack Method"
-  dirName = "understanding-attack-method"
+understandTheAttackMethod = new Template.Microlesson {
+  friendlyName = "Understand the Attack Method"
+  dirName = "understand-the-attack-method"
   type = "Content"
   videoUrl = ""
 }
 
-investigatingAnIncident = new Template.Microlesson {
-  friendlyName = "Investigating a Real-World Incident"
-  dirName = "investigating-an-incident"
+investigateARealWorldIncident = new Template.Microlesson {
+  friendlyName = "Investigate a Real-World Incident"
+  dirName = "investigate-a-real-world-incident"
   type = "Content"
   videoUrl = ""
 }
 
-comprehensiveReport = new Template.Microlesson {
-  friendlyName = "Compiling a Comprehensive Report"
-  dirName = "comprehensive-report"
+compileAComprehensiveReport = new Template.Microlesson {
+  friendlyName = "Compile a Comprehensive Report"
+  dirName = "compile-a-comprehensive-report"
   type = "Content"
   videoUrl = ""
 }
 
-presentingFindings = new Template.Microlesson {
-  friendlyName = "Presenting Your Findings"
-  dirName = "presenting-findings"
+presentYourFindings = new Template.Microlesson {
+  friendlyName = "Present Your Findings"
+  dirName = "present-your-findings"
   type = "Content"
   videoUrl = ""
 }
-
-

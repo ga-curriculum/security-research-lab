@@ -1,13 +1,13 @@
 <h1>
   <span class="headline">Security Research Lab</span>
-  <span class="subhead">Compiling a Comprehensive Report</span>
+  <span class="subhead">Compile a Comprehensive Report</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to combine research on the attack method and the investigation of the real-world incident into a comprehensive, well-structured report
 
 You've researched your attack method and a real world incident. Now it's time to bring it all together into a cohesive, comprehensive report.
 
-## Structuring Your Report
+## Structuring your report
 
 Start by outlining the structure of your report. A good structure might include:
 
@@ -16,18 +16,18 @@ Start by outlining the structure of your report. A good structure might include:
    - Overview of the attack method and the incident you investigated
    - The importance and relevance of this topic
 
-2. **Attack Method Overview**
+2. **Attack method overview**
 
    - Technical details of how the attack works
    - Objectives and risks associated with the attack
 
-3. **Incident Case Study**
+3. **Incident case study**
 
    - Timeline and key events of the incident
    - Tactics and techniques used in the attack
    - Impact and aftermath of the incident
 
-4. **Analysis and Insights**
+4. **Analysis and insights**
 
    - Lessons learned from the incident
    - Best practices for defending against this type of attack
@@ -38,7 +38,7 @@ Start by outlining the structure of your report. A good structure might include:
    - Summary of key points
    - The importance of ongoing research and learning in cybersecurity
 
-## Writing Your Report
+## Writing your report
 
 With your structure in place, it's time to start writing. As you write, keep the following tips in mind:
 
@@ -50,7 +50,7 @@ With your structure in place, it's time to start writing. As you write, keep the
 
 - Keep your audience in mind. Write in a way that will be understandable and engaging for your peers.
 
-## Reviewing and Refining
+## Reviewing and refining
 
 Once you have a draft of your report, take the time to review and refine it.
 
