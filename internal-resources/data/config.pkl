@@ -21,26 +21,26 @@ repo {
 courses {
   new {
     // Do not remove this fallback course!
-    name = "fallback"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.choosingYourAttackMethod
-      mls.understandingAttackMethod
-      mls.investigatingAnIncident
-      mls.comprehensiveReport
-      mls.presentingFindings
-    }
-  }
-    new {
-    // Do not remove this fallback course!
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.choosingYourAttackMethod
-      mls.understandingAttackMethod
-      mls.investigatingAnIncident
-      mls.comprehensiveReport
-      mls.presentingFindings
+      mls.chooseAnAttackMethod
+      mls.understandTheAttackMethod
+      mls.investigateARealWorldIncident
+      mls.compileAComprehensiveReport
+      mls.presentYourFindings
+    }
+  }
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.chooseAnAttackMethod
+      mls.understandTheAttackMethod
+      mls.investigateARealWorldIncident
+      mls.compileAComprehensiveReport
+      mls.presentYourFindings
     }
   }
 }

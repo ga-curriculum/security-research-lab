@@ -1,13 +1,13 @@
 <h1>
   <span class="headline">Security Research Lab</span>
-  <span class="subhead">Investigating a Real-World Incident</span>
+  <span class="subhead">Investigate a Real-World Incident</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to investigate and document the details of a real-world security incident involving the chosen attack method.
 
 With a solid understanding of your attack method in hand, it's time to see how it plays out in the real world. In this exercise, you'll investigate an actual security incident that involved your chosen method.
 
-## Finding an Incident to Investigate
+## Finding an incident to investigate
 
 Start by identifying a specific incident to focus on. Some resources to find incidents:
 
@@ -18,7 +18,7 @@ Start by identifying a specific incident to focus on. Some resources to find inc
 
 Look for an incident that has sufficient information available for you to investigate in depth. Ideally, you want an incident with technical details on how the attack was carried out, as well as information on the impact and aftermath.
 
-## Investigating the Incident
+## Investigating the incident
 
 Once you've chosen an incident, it's time to put your investigative skills to work. Dig into the available information and try to answer the following questions:
 
@@ -34,7 +34,7 @@ Once you've chosen an incident, it's time to put your investigative skills to wo
 
 - What lessons were learned from the incident? Were there any changes made to the organization's security posture as a result?
 
-## Documenting the Incident
+## Documenting the incident
 
 As you investigate, document your findings in a clear, organized way. You might create a timeline of the incident, a diagram of the attack flow, or a table of the key facts and figures.
 

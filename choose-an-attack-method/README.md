@@ -1,13 +1,13 @@
 <h1>
   <span class="headline">Security Research Lab</span>
-  <span class="subhead">Choosing Your Attack Method</span>
+  <span class="subhead">Choose an Attack Method</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify a specific attack method of interest and understand the goals of researching this method in depth.
 
 In this lab, you'll have the opportunity to dive deep into a real-world attack method, investigate an actual incident involving that method, and present your findings to your peers.
 
-## Choosing Your Attack Method
+## Choosing an attack method that interests you
 
 The first step is to choose an attack method that interests you. This could be one of the methods we've discussed in class, such as:
 
@@ -19,7 +19,7 @@ The first step is to choose an attack method that interests you. This could be o
 
 The key is to choose a method that you're curious about and want to understand in more depth.
 
-## Understanding the Goals of Your Research
+## Understanding the goals of your research
 
 Once you've chosen your attack method, take a moment to consider what you hope to learn through this research process.
 

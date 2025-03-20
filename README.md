@@ -5,15 +5,20 @@
 
 ## About
 
-By the end of this lab, students will be able to conduct in-depth research on a specific attack method, investigate a real-world incident involving that method, and present a comprehensive report on their findings to their peers.
+In this lab you'll conduct in-depth research on a specific attack method, investigate a real-world incident involving that method, and present a comprehensive report on your findings to your peers.
 
 ## Content
 
-- [Choosing Your Attack Method](./choosing-your-attack-method/README.md)
-- [Understanding the Attack Method](./understanding-attack-method/README.md)
-- [Investigating a Real-World Incident](./investigating-an-incident/README.md)
-- [Compiling a Comprehensive Report](./comprehensive-report/README.md)
-- [Presenting Your Findings](./presenting-findings/README.md)
+- [Choose an Attack Method](./choose-an-attack-method/README.md)
+- [Understand the Attack Method](./understand-the-attack-method/README.md)
+- [Investigate a Real-World Incident](./investigate-a-real-world-incident/README.md)
+- [Compile a Comprehensive Report](./compile-a-comprehensive-report/README.md)
+- [Present Your Findings](./present-your-findings/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 
