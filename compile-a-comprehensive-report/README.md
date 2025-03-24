@@ -5,9 +5,13 @@
 
 **Learning objective:** By the end of this lesson, students will be able to combine research on the attack method and the investigation of the real-world incident into a comprehensive, well-structured report
 
-## Topics to cover in your report
+## Setup
 
 You've researched your attack method and a real-world incident. Now, it's time to bring it all together into a cohesive, comprehensive report.
+
+Create a new document in Google Docs. This will be the main document for your report. Share the document so that it is able to be viewed publicly. This is required so that you're able to submit it to your instructor.
+
+## Topics to cover in your report
 
 Start by outlining the structure of your report. While you can structure your report however you'd like, your report must address these points:
 
