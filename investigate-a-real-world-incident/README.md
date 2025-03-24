@@ -5,18 +5,18 @@
 
 **Learning objective:** By the end of this lesson, students will be able to investigate and document the details of a real-world security incident involving the chosen attack method.
 
-With a solid understanding of your attack method in hand, it's time to see how it plays out in the real world. In this exercise, you'll investigate an actual security incident that involved your chosen method.
-
 ## Finding an incident to investigate
+
+Now that you understand the attack method, it's time to see how it plays out in the real world. In this exercise, you'll investigate an actual security incident that involved your chosen method.
 
 Start by identifying a specific incident to focus on. Some resources to find incidents:
 
-- News articles and tech journals
-- Security incident databases and case studies
-- Breach notification sites and regulatory filings
-- Cybersecurity company blogs and reports
+- News articles and tech journals.
+- Security incident databases and case studies.
+- Breach notification sites and regulatory filings.
+- Cybersecurity company blogs and reports.
 
-Look for an incident that has sufficient information available for you to investigate in depth. Ideally, you want an incident with technical details on how the attack was carried out, as well as information on the impact and aftermath.
+Look for an incident with sufficient information available to investigate in depth. Ideally, you want an incident with technical details on how the attack was carried out, and information on the impact and aftermath.
 
 ## Investigating the incident
 
@@ -28,7 +28,7 @@ Once you've chosen an incident, it's time to put your investigative skills to wo
 
 - What systems, data, or assets were targeted in the attack? Were they successfully compromised?
 
-- What was the impact of the incident? Consider data loss, system downtime, financial costs, reputational damage, and any other relevant effects.
+- What was the impact of the incident? Consider data loss, system downtime, financial costs, reputational damage, and other relevant effects.
 
 - How did the organization respond to the incident? What steps did they take to contain, investigate, and recover from the attack?
 
@@ -40,4 +40,4 @@ As you investigate, document your findings in a clear, organized way. You might 
 
 The goal is to create a comprehensive case study of the incident that covers the attack details, the impact, and the lessons learned. This case study will form a key part of your final report.
 
-By the end of this exercise, you should have a deep understanding of how your chosen attack method has been used in a real-world incident. You'll have insights into the tactics and techniques used, the impact of the attack, and the challenges of detecting, responding to, and recovering from this type of incident.
+By the end of this exercise, you should deeply understand how your chosen attack method has been used in a real-world incident. You'll have insights into the tactics and techniques used, the attack's impact, and the challenges of detecting, responding to, and recovering from this type of incident.

@@ -13,6 +13,9 @@ In this lab you'll conduct in-depth research on a specific attack method, invest
 - [Understand the Attack Method](../understand-the-attack-method/README.md)
 - [Investigate a Real-World Incident](../investigate-a-real-world-incident/README.md)
 - [Compile a Comprehensive Report](../compile-a-comprehensive-report/README.md)
+
+## Level Up content
+
 - [Present Your Findings](../present-your-findings/README.md)
 
 ## Rubric

@@ -28,7 +28,9 @@ courses {
       mls.understandTheAttackMethod
       mls.investigateARealWorldIncident
       mls.compileAComprehensiveReport
-      mls.presentYourFindings
+      (mls.presentYourFindings) {
+        type = "Level Up content"
+      }
     }
   }
   new {

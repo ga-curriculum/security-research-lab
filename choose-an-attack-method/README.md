@@ -5,9 +5,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to identify a specific attack method of interest and understand the goals of researching this method in depth.
 
-In this lab, you'll have the opportunity to dive deep into a real-world attack method, investigate an actual incident involving that method, and present your findings to your peers.
-
 ## Choosing an attack method that interests you
+
+In this lab, you'll get to dive deep into a real-world attack method, and investigate an actual incident involving that method.
 
 The first step is to choose an attack method that interests you. This could be one of the methods we've discussed in class, such as:
 
@@ -17,7 +17,7 @@ The first step is to choose an attack method that interests you. This could be o
 - Phishing and Social Engineering
 - Malware and Ransomware
 
-The key is to choose a method that you're curious about and want to understand in more depth.
+Choose a method you're curious about and want to understand better.
 
 ## Understanding the goals of your research
 

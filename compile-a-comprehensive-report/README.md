@@ -5,38 +5,58 @@
 
 **Learning objective:** By the end of this lesson, students will be able to combine research on the attack method and the investigation of the real-world incident into a comprehensive, well-structured report
 
-You've researched your attack method and a real world incident. Now it's time to bring it all together into a cohesive, comprehensive report.
+## Topics to cover in your report
 
-## Structuring your report
+You've researched your attack method and a real-world incident. Now, it's time to bring it all together into a cohesive, comprehensive report.
 
-Start by outlining the structure of your report. A good structure might include:
+Start by outlining the structure of your report. While you can structure your report however you'd like, your report must address these points:
+
+- Overview of the attack method and the incident you investigated.
+- The importance and relevance of this attack method and incident.
+- Technical details of how the attack works.
+- The objective of the attack if it is known.
+- The risks associated with the attack.
+- The victim's organizational risks associated with the attack.
+- Timeline and key events of the incident.
+- Tactics and techniques used in the attack.
+- Impact and aftermath of the incident.
+- Lessons learned from the incident.
+- Best practices for defending against this type of attack.
+- Implications for the field of cybersecurity.
+
+While optional, you may want to consider including visual aids in your report. Diagrams, timelines, and tables can help make complex information more understandable. You might also consider including a glossary of terms or a list of resources for further reading.
+
+### Suggested structure
+
+While you can structure your report however you'd like, here is a suggested structure to help you get started so that your report is clear and easy to follow:
 
 1. **Introduction**
 
-   - Overview of the attack method and the incident you investigated
-   - The importance and relevance of this topic
+   - Overview of the attack method and the incident you investigated.
+   - The importance and relevance of this attack method and incident.
 
 2. **Attack method overview**
 
-   - Technical details of how the attack works
-   - Objectives and risks associated with the attack
+   - Technical details of how the attack works.
+   - The objective of the attack.
+   - The victim's organizational risks associated with the attack.
 
 3. **Incident case study**
 
-   - Timeline and key events of the incident
-   - Tactics and techniques used in the attack
-   - Impact and aftermath of the incident
+   - Timeline and key events of the incident.
+   - Tactics and techniques used in the attack.
+   - The impact of the incident.
+   - The aftermath of the incident.
 
 4. **Analysis and insights**
 
-   - Lessons learned from the incident
-   - Best practices for defending against this type of attack
-   - Implications for the field of cybersecurity
+   - Lessons that the cybersecurity field can learn from this incident.
+   - Best practices for defending against this type of attack.
 
 5. **Conclusion**
 
-   - Summary of key points
-   - The importance of ongoing research and learning in cybersecurity
+   - Summary of key points.
+   - The importance of ongoing research and learning in cybersecurity.
 
 ## Writing your report
 
@@ -48,7 +68,7 @@ With your structure in place, it's time to start writing. As you write, keep the
 
 - Use visuals where appropriate. Diagrams, timelines, and tables can help make complex information more understandable.
 
-- Keep your audience in mind. Write in a way that will be understandable and engaging for your peers.
+- Keep your audience in mind. Write in a way that would be understandable and engaging for your peers.
 
 ## Reviewing and refining
 
