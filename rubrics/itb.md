@@ -21,6 +21,6 @@ The following requirements describe the necessary deliverables for the Security 
 | The report includes the lessons that the cybersecurity field can learn from this attack.                              | 8      |
 | The report includes best practices that could have been implemented to prevent this attack.                           | 8      |
 | The report is formatted in a clear manner.                                                                            | 5      |
-| The report was shared publicly so that it is able to be viewed by the instructor on their first attempt when grading. | 5      |
-| The report uses clear and professional language.                                                                      | 3      |
+| The report was shared publicly so that it is able to be viewed by the instructor on their first attempt when grading. | 2      |
+| The report uses clear and professional language.                                                                      | 5      |
 | **Total possible points**                                                                                             | 100    |
