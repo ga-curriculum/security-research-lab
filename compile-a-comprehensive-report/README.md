@@ -3,7 +3,7 @@
   <span class="subhead">Compile a Comprehensive Report</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to combine research on the attack method and the investigation of the real-world incident into a comprehensive, well-structured report
+**Learning objective:** By the end of this lesson, students will be able to combine research on the attack method and the investigation of the real-world incident into a comprehensive, well-structured report.
 
 ## Setup
 
